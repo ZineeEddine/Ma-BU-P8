@@ -1,0 +1,486 @@
+<resources>
+    <string name="app_name">Ma BU P8</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ma Bibliothèque Universitaire P8</string>
+    <string name="nav_header_subtitle">By H.Zine-Eddine</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  <string name="menu_home">Home</string>
+     <string name="menu_gallery">Gallery</string>
+     <string name="menu_slideshow">Slideshow</string>-->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="reservation_txt">Tous les membres de Paris 8 (enseignants ou étudiants et personnels), ainsi que les lecteurs extérieurs payants ou exonérés et les lecteurs empêchés, peuvent réserver deux ouvrages.\nIl faut que tous les exemplaires empruntables du document soient déjà empruntés. Vous pouvez vous connecter à votre compte-lecteur, pour effectuez votre recherche:\nDepuis la notice du document, cliquez sur Réserver , vérifiez les informations , validez.\n Dès le retour du document, nous vous prévenons par mail de sa disponibilité.</string>
+    <string name="equipement_salle">\nÉquipement de la salle :</string>
+    <string name="discipline_salle">\nDiscipline de la salle :</string>
+    <string name="pln_salle">\nPlan de la salle:</string>
+
+
+    <!-- BUT DUT LIVRE -->
+    <string name="titre_but_dut_1">Titre</string>
+    <string name="auteur_but_dut_1">Philippe</string>
+    <string name="edition_but_dut_1">Edition 2013</string>
+    <string name="date_but_dut_1">02-12-2003</string>
+    <string name="description_but_dut_1">250p</string>
+    <string name="localisation_but_dut_1">salle bleu</string>
+    <string name="cote_but_dut_1">802.12</string>
+
+
+    <string name="titre_but_dut_2">Titre</string>
+    <string name="auteur_but_dut_2"> </string>
+    <string name="edition_but_dut_2"> </string>
+    <string name="date_but_dut_2"> </string>
+    <string name="description_but_dut_2"> </string>
+    <string name="localisation_but_dut_2"> </string>
+    <string name="cote_but_dut_2"> </string>
+
+
+    <string name="titre_but_dut_3">Réseaux et transmissions protocoles, infrastructures et services</string>
+    <string name="auteur_but_dut_3">Stéphane Lohier, Dominique Présent</string>
+    <string name="edition_but_dut_3">7e édition</string>
+    <string name="date_but_dut_3">2020</string>
+    <string name="description_but_dut_3">326 p</string>
+    <string name="localisation_but_dut_3">Salle bleue</string>
+    <string name="cote_but_dut_3">681.3.024 LOH 2020</string>
+
+    <string name="titre_but_dut_4">Titre</string>
+    <string name="auteur_but_dut_4"> </string>
+    <string name="edition_but_dut_4"> </string>
+    <string name="date_but_dut_4"> </string>
+    <string name="description_but_dut_4"> </string>
+    <string name="localisation_but_dut_4"> </string>
+    <string name="cote_but_dut_4"> </string>
+
+    <string name="titre_but_dut_5">Logistique industrielle et organisation</string>
+    <string name="auteur_but_dut_5">Georges Javel,\nNasser Mebarki,\nIsabelle Corthier</string>
+    <string name="edition_but_dut_5">5e édition</string>
+    <string name="date_but_dut_5">2017</string>
+    <string name="description_but_dut_5">513 p</string>
+    <string name="localisation_but_dut_5"> </string>
+    <string name="cote_but_dut_5">657.7 JAV</string>
+
+
+    <string name="titre_but_dut_6">Titre</string>
+    <string name="auteur_but_dut_6"> </string>
+    <string name="edition_but_dut_6"> </string>
+    <string name="date_but_dut_6"> </string>
+    <string name="description_but_dut_6"> </string>
+    <string name="localisation_but_dut_6"> </string>
+    <string name="cote_but_dut_6"> </string>
+
+
+    <string name="titre_but_dut_7">Transport logistique</string>
+    <string name="auteur_but_dut_7">Patrick Miani, Nadine Venturelli</string>
+    <string name="edition_but_dut_7">8e édition</string>
+    <string name="date_but_dut_7">2014</string>
+    <string name="description_but_dut_7">247 p</string>
+    <string name="localisation_but_dut_7"> </string>
+    <string name="cote_but_dut_7"> </string>
+
+
+
+    <!-- Licence LIVRE -->
+
+
+    <string name="titre_lic_1">Titre</string>
+    <string name="auteur_lic_1"> </string>
+    <string name="edition_lic_1"> </string>
+    <string name="date_lic_1"> </string>
+    <string name="description_lic_1"> </string>
+    <string name="localisation_lic_1"> </string>
+    <string name="cote_lic_1"> </string>
+
+    <string name="titre_lic_2">Titre</string>
+    <string name="auteur_lic_2"> </string>
+    <string name="edition_lic_2"> </string>
+    <string name="date_lic_2"> </string>
+    <string name="description_lic_2"> </string>
+    <string name="localisation_lic_2"> </string>
+    <string name="cote_lic_2"> </string>
+
+    <string name="titre_lic_3">Introduction au droit</string>
+    <string name="auteur_lic_3">Marais,Astrid</string>
+    <string name="edition_lic_3">10e édition</string>
+    <string name="date_lic_3">2021</string>
+    <string name="description_lic_3">314 p</string>
+    <string name="localisation_lic_3">Salle verte</string>
+    <string name="cote_lic_3">340.1 MARA</string>
+
+    <string name="titre_lic_4">Titre</string>
+    <string name="auteur_lic_4"> </string>
+    <string name="edition_lic_4"> </string>
+    <string name="date_lic_4"> </string>
+    <string name="description_lic_4"> </string>
+    <string name="localisation_lic_4"> </string>
+    <string name="cote_lic_4"> </string>
+
+    <string name="titre_lic_5">Titre</string>
+    <string name="auteur_lic_5"> </string>
+    <string name="edition_lic_5"> </string>
+    <string name="date_lic_5"> </string>
+    <string name="description_lic_5"> </string>
+    <string name="localisation_lic_5"> </string>
+    <string name="cote_lic_5"> </string>
+
+    <string name="titre_lic_6">Titre</string>
+    <string name="auteur_lic_6"> </string>
+    <string name="edition_lic_6"> </string>
+    <string name="date_lic_6"> </string>
+    <string name="description_lic_6"> </string>
+    <string name="localisation_lic_6"> </string>
+    <string name="cote_lic_6"> </string>
+
+    <string name="titre_lic_7">Titre</string>
+    <string name="auteur_lic_7"> </string>
+    <string name="edition_lic_7"> </string>
+    <string name="date_lic_7"> </string>
+    <string name="description_lic_7"> </string>
+    <string name="localisation_lic_7"> </string>
+    <string name="cote_lic_7"> </string>
+
+    <string name="titre_lic_8">Titre</string>
+    <string name="auteur_lic_8"> </string>
+    <string name="edition_lic_8"> </string>
+    <string name="date_lic_8"> </string>
+    <string name="description_lic_8"> </string>
+    <string name="localisation_lic_8"> </string>
+    <string name="cote_lic_8"> </string>
+
+    <string name="titre_lic_9">Titre</string>
+    <string name="auteur_lic_9"> </string>
+    <string name="edition_lic_9"> </string>
+    <string name="date_lic_9"> </string>
+    <string name="description_lic_9"> </string>
+    <string name="localisation_lic_9"> </string>
+    <string name="cote_lic_9"> </string>
+
+    <string name="titre_lic_10">Langage C: maîtriser la programmation procédurale</string>
+    <string name="auteur_lic_10">Frédéric Drouillon</string>
+    <string name="edition_lic_10">2e édition</string>
+    <string name="date_lic_10">2021</string>
+    <string name="description_lic_10">900 p</string>
+    <string name="localisation_lic_10">Salle bleue</string>
+    <string name="cote_lic_10">681.32.048 C DRO 2021</string>
+
+    <string name="titre_lic_11">Titre</string>
+    <string name="auteur_lic_11"> </string>
+    <string name="edition_lic_11"> </string>
+    <string name="date_lic_11"> </string>
+    <string name="description_lic_11"> </string>
+    <string name="localisation_lic_11"> </string>
+    <string name="cote_lic_11"> </string>
+
+    <string name="titre_lic_12">Titre</string>
+    <string name="auteur_lic_12"> </string>
+    <string name="edition_lic_12"> </string>
+    <string name="date_lic_12"> </string>
+    <string name="description_lic_12"> </string>
+    <string name="localisation_lic_12"> </string>
+    <string name="cote_lic_12"> </string>
+
+    <string name="titre_lic_13">Titre</string>
+    <string name="auteur_lic_13"> </string>
+    <string name="edition_lic_13"> </string>
+    <string name="date_lic_13"> </string>
+    <string name="description_lic_13"> </string>
+    <string name="localisation_lic_13"> </string>
+    <string name="cote_lic_13"> </string>
+
+    <string name="titre_lic_14">Titre</string>
+    <string name="auteur_lic_14"> </string>
+    <string name="edition_lic_14"> </string>
+    <string name="date_lic_14"> </string>
+    <string name="description_lic_14"> </string>
+    <string name="localisation_lic_14"> </string>
+    <string name="cote_lic_14"> </string>
+
+    <string name="titre_lic_15">Titre</string>
+    <string name="auteur_lic_15"> </string>
+    <string name="edition_lic_15"> </string>
+    <string name="date_lic_15"> </string>
+    <string name="description_lic_15"> </string>
+    <string name="localisation_lic_15"> </string>
+    <string name="cote_lic_15"> </string>
+
+    <string name="titre_lic_16">Titre</string>
+    <string name="auteur_lic_16"> </string>
+    <string name="edition_lic_16"> </string>
+    <string name="date_lic_16"> </string>
+    <string name="description_lic_16"> </string>
+    <string name="localisation_lic_16"> </string>
+    <string name="cote_lic_16"> </string>
+
+    <string name="titre_lic_17">Titre</string>
+    <string name="auteur_lic_17"> </string>
+    <string name="edition_lic_17"> </string>
+    <string name="date_lic_17"> </string>
+    <string name="description_lic_17"> </string>
+    <string name="localisation_lic_17"> </string>
+    <string name="cote_lic_17"> </string>
+
+    <string name="titre_lic_18">Titre</string>
+    <string name="auteur_lic_18"> </string>
+    <string name="edition_lic_18"> </string>
+    <string name="date_lic_18"> </string>
+    <string name="description_lic_18"> </string>
+    <string name="localisation_lic_18"> </string>
+    <string name="cote_lic_18"> </string>
+
+    <string name="titre_lic_19">Titre</string>
+    <string name="auteur_lic_19"> </string>
+    <string name="edition_lic_19"> </string>
+    <string name="date_lic_19"> </string>
+    <string name="description_lic_19"> </string>
+    <string name="localisation_lic_19"> </string>
+    <string name="cote_lic_19"> </string>
+
+    <string name="titre_lic_20">Titre</string>
+    <string name="auteur_lic_20"> </string>
+    <string name="edition_lic_20"> </string>
+    <string name="date_lic_20"> </string>
+    <string name="description_lic_20"> </string>
+    <string name="localisation_lic_20"> </string>
+    <string name="cote_lic_20"> </string>
+
+    <string name="titre_lic_21">Titre</string>
+    <string name="auteur_lic_21"> </string>
+    <string name="edition_lic_21"> </string>
+    <string name="date_lic_21"> </string>
+    <string name="description_lic_21"> </string>
+    <string name="localisation_lic_21"> </string>
+    <string name="cote_lic_21"> </string>
+
+    <string name="titre_lic_22">Titre</string>
+    <string name="auteur_lic_22"> </string>
+    <string name="edition_lic_22"> </string>
+    <string name="date_lic_22"> </string>
+    <string name="description_lic_22"> </string>
+    <string name="localisation_lic_22"> </string>
+    <string name="cote_lic_22"> </string>
+
+    <string name="titre_lic_23">Titre</string>
+    <string name="auteur_lic_23"> </string>
+    <string name="edition_lic_23"> </string>
+    <string name="date_lic_23"> </string>
+    <string name="description_lic_23"> </string>
+    <string name="localisation_lic_23"> </string>
+    <string name="cote_lic_23"> </string>
+
+    <string name="titre_lic_24">Titre</string>
+    <string name="auteur_lic_24"> </string>
+    <string name="edition_lic_24"> </string>
+    <string name="date_lic_24"> </string>
+    <string name="description_lic_24"> </string>
+    <string name="localisation_lic_24"> </string>
+    <string name="cote_lic_24"> </string>
+
+
+    <!-- Licence pro livre -->
+
+    <string name="titre_lic_pro_1">Titre</string>
+    <string name="auteur_lic_pro_1"> </string>
+    <string name="edition_lic_pro_1"> </string>
+    <string name="date_lic_pro_1"> </string>
+    <string name="description_lic_pro_1"> </string>
+    <string name="localisation_lic_pro_1"> </string>
+    <string name="cote_lic_pro_1"> </string>
+
+    <string name="titre_lic_pro_2">Titre</string>
+    <string name="auteur_lic_pro_2"> </string>
+    <string name="edition_lic_pro_2"> </string>
+    <string name="date_lic_pro_2"> </string>
+    <string name="description_lic_pro_2"> </string>
+    <string name="localisation_lic_pro_2"> </string>
+    <string name="cote_lic_pro_2"> </string>
+
+    <string name="titre_lic_pro_3">Titre</string>
+    <string name="auteur_lic_pro_3"> </string>
+    <string name="edition_lic_pro_3"> </string>
+    <string name="date_lic_pro_3"> </string>
+    <string name="description_lic_pro_3"> </string>
+    <string name="localisation_lic_pro_3"> </string>
+    <string name="cote_lic_pro_3"> </string>
+
+    <string name="titre_lic_pro_4">Titre</string>
+    <string name="auteur_lic_pro_4"> </string>
+    <string name="edition_lic_pro_4"> </string>
+    <string name="date_lic_pro_4"> </string>
+    <string name="description_lic_pro_4"> </string>
+    <string name="localisation_lic_pro_4"> </string>
+    <string name="cote_lic_pro_4"> </string>
+
+    <string name="titre_lic_pro_5">Titre</string>
+    <string name="auteur_lic_pro_5"> </string>
+    <string name="edition_lic_pro_5"> </string>
+    <string name="date_lic_pro_5"> </string>
+    <string name="description_lic_pro_5"> </string>
+    <string name="localisation_lic_pro_5"> </string>
+    <string name="cote_lic_pro_5"> </string>
+
+    <string name="titre_lic_pro_6">Titre</string>
+    <string name="auteur_lic_pro_6"> </string>
+    <string name="edition_lic_pro_6"> </string>
+    <string name="date_lic_pro_6"> </string>
+    <string name="description_lic_pro_6"> </string>
+    <string name="localisation_lic_pro_6"> </string>
+    <string name="cote_lic_pro_6"> </string>
+
+    <string name="titre_lic_pro_7">Titre</string>
+    <string name="auteur_lic_pro_7"> </string>
+    <string name="edition_lic_pro_7"> </string>
+    <string name="date_lic_pro_7"> </string>
+    <string name="description_lic_pro_7"> </string>
+    <string name="localisation_lic_pro_7"> </string>
+    <string name="cote_lic_pro_7"> </string>
+
+    <string name="titre_lic_pro_8">Titre</string>
+    <string name="auteur_lic_pro_8"> </string>
+    <string name="edition_lic_pro_8"> </string>
+    <string name="date_lic_pro_8"> </string>
+    <string name="description_lic_pro_8"> </string>
+    <string name="localisation_lic_pro_8"> </string>
+    <string name="cote_lic_pro_8"> </string>
+
+    <string name="titre_lic_pro_9">Titre</string>
+    <string name="auteur_lic_pro_9"> </string>
+    <string name="edition_lic_pro_9"> </string>
+    <string name="date_lic_pro_9"> </string>
+    <string name="description_lic_pro_9"> </string>
+    <string name="localisation_lic_pro_9"> </string>
+    <string name="cote_lic_pro_9"> </string>
+
+    <string name="titre_lic_pro_10">Titre</string>
+    <string name="auteur_lic_pro_10"> </string>
+    <string name="edition_lic_pro_10"> </string>
+    <string name="date_lic_pro_10"> </string>
+    <string name="description_lic_pro_10"> </string>
+    <string name="localisation_lic_pro_10"> </string>
+    <string name="cote_lic_pro_10"> </string>
+
+    <!-- Master -->
+
+    <string name="titre_master_1">Titre</string>
+    <string name="auteur_master_1"> </string>
+    <string name="edition_master_1"> </string>
+    <string name="date_master_1"> </string>
+    <string name="description_master_1"> </string>
+    <string name="localisation_master_1"> </string>
+    <string name="cote_master_1"> </string>
+
+
+    <string name="titre_master_2">Titre</string>
+    <string name="auteur_master_2"> </string>
+    <string name="edition_master_2"> </string>
+    <string name="date_master_2"> </string>
+    <string name="description_master_2"> </string>
+    <string name="localisation_master_2"> </string>
+    <string name="cote_master_2"> </string>
+
+    <string name="titre_master_3">Titre</string>
+    <string name="auteur_master_3"> </string>
+    <string name="edition_master_3"> </string>
+    <string name="date_master_3"> </string>
+    <string name="description_master_3"> </string>
+    <string name="localisation_master_3"> </string>
+    <string name="cote_master_3"> </string>
+
+
+    <string name="titre_master_4">Titre</string>
+    <string name="auteur_master_4"> </string>
+    <string name="edition_master_4"> </string>
+    <string name="date_master_4"> </string>
+    <string name="description_master_4"> </string>
+    <string name="localisation_master_4"> </string>
+    <string name="cote_master_4"> </string>
+
+    <string name="titre_master_5">Titre</string>
+    <string name="auteur_master_5"> </string>
+    <string name="edition_master_5"> </string>
+    <string name="date_master_5"> </string>
+    <string name="description_master_5"> </string>
+    <string name="localisation_master_5"> </string>
+    <string name="cote_master_5"> </string>
+
+
+
+
+
+
+    <!-- Master meef  -->
+
+
+
+    <string name="titre_master_meef_1">Titre</string>
+    <string name="auteur_master_meef_1"> </string>
+    <string name="edition_master_meef_1"> </string>
+    <string name="date_master_meef_1"> </string>
+    <string name="description_master_meef_1"> </string>
+    <string name="localisation_master_meef_1"> </string>
+    <string name="cote_master_meef_1"> </string>
+
+
+    <string name="titre_master_meef_2">Titre</string>
+    <string name="auteur_master_meef_2"> </string>
+    <string name="edition_master_meef_2"> </string>
+    <string name="date_master_meef_2"> </string>
+    <string name="description_master_meef_2"> </string>
+    <string name="localisation_master_meef_2"> </string>
+    <string name="cote_master_meef_2"> </string>
+
+    <string name="titre_master_meef_3">Titre</string>
+    <string name="auteur_master_meef_3"> </string>
+    <string name="edition_master_meef_3"> </string>
+    <string name="date_master_meef_3"> </string>
+    <string name="description_master_meef_3"> </string>
+    <string name="localisation_master_meef_3"> </string>
+    <string name="cote_master_meef_3"> </string>
+
+
+    <string name="titre_master_meef_4">Titre</string>
+    <string name="auteur_master_meef_4"> </string>
+    <string name="edition_master_meef_4"> </string>
+    <string name="date_master_meef_meef_4"> </string>
+    <string name="description_master_meef_4"> </string>
+    <string name="localisation_master_meef_4"> </string>
+    <string name="cote_master_meef_4"> </string>
+
+    <string name="titre_master_meef_5">Titre</string>
+    <string name="auteur_master_meef_5"> </string>
+    <string name="edition_master_meef_5"> </string>
+    <string name="date_master_meef_5"> </string>
+    <string name="description_master_meef_5"> </string>
+    <string name="localisation_master_meef_5"> </string>
+    <string name="cote_master_meef_5"> </string>
+
+    <string name="titre_master_meef_6">Titre</string>
+    <string name="auteur_master_meef_6"> </string>
+    <string name="edition_master_meef_6"> </string>
+    <string name="date_master_meef_6"> </string>
+    <string name="description_master_meef_6"> </string>
+    <string name="localisation_master_meef_6"> </string>
+    <string name="cote_master_meef_6"> </string>
+
+
+    <string name="titre_master_meef_7">Titre</string>
+    <string name="auteur_master_meef_7"> </string>
+    <string name="edition_master_meef_7"> </string>
+    <string name="date_master_meef_meef_7"> </string>
+    <string name="description_master_meef_7"> </string>
+    <string name="localisation_master_meef_7"> </string>
+    <string name="cote_master_meef_7"> </string>
+
+    <string name="titre_master_meef_8">Titre</string>
+    <string name="auteur_master_meef_8"> </string>
+    <string name="edition_master_meef_8"> </string>
+    <string name="date_master_meef_8"> </string>
+    <string name="description_master_meef_8"> </string>
+    <string name="localisation_master_meef_8"> </string>
+    <string name="cote_master_meef_8"> </string>
+
+
+
+</resources>

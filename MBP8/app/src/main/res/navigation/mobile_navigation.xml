@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/ac_règle">
+
+    <!--<fragment
+        android:id="@+id/nav_home"
+        android:name="com.appmbp.mbp8.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.appmbp.mbp8.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.appmbp.mbp8.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />-->
+    <fragment
+        android:id="@+id/sl_bleue"
+        android:name="com.appmbp.mbp8.Salle_BleueFragment"
+        android:label="Salle Bleue"
+        tools:layout="@layout/fragment_salle__bleue" />
+    <fragment
+        android:id="@+id/sl_brune"
+        android:name="com.appmbp.mbp8.Salle_BruneFragment"
+        android:label="Salle Brune"
+        tools:layout="@layout/fragment_salle__brune" />
+    <fragment
+        android:id="@+id/mn_conseiller"
+        android:name="com.appmbp.mbp8.Mon_ConseillerFragment"
+        android:label="Mon Conseiller"
+        tools:layout="@layout/fragment_mon__conseiller" />
+    <fragment
+        android:id="@+id/sl_orange"
+        android:name="com.appmbp.mbp8.Salle_OrangeFragment"
+        android:label="Salle Orange"
+        tools:layout="@layout/fragment_salle__orange" />
+    <fragment
+        android:id="@+id/sl_rose"
+        android:name="com.appmbp.mbp8.Salle_RoseFragment"
+        android:label="Salle Rose"
+        tools:layout="@layout/fragment_salle__rose" />
+    <fragment
+        android:id="@+id/sl_rouge"
+        android:name="com.appmbp.mbp8.Salle_RougeFragment"
+        android:label="Salle Rouge"
+        tools:layout="@layout/fragment_salle__rouge" />
+    <fragment
+        android:id="@+id/sl_verte"
+        android:name="com.appmbp.mbp8.Salle_VerteFragment"
+        android:label="Salle Verte"
+        tools:layout="@layout/fragment_salle__verte" />
+    <fragment
+        android:id="@+id/sl_violette"
+        android:name="com.appmbp.mbp8.Salle_VioletteFragment"
+        android:label="Salle Violette"
+        tools:layout="@layout/fragment_salle__violette" />
+    <fragment
+        android:id="@+id/ac_horaire"
+        android:name="com.appmbp.mbp8.HoraireFragment"
+        android:label="Horaires"
+        tools:layout="@layout/fragment_horaire" />
+    <fragment
+        android:id="@+id/ac_règle"
+        android:name="com.appmbp.mbp8.Regle_PretFragment"
+        android:label="Règles de prêt"
+        tools:layout="@layout/fragment_regle__pret" />
+    <fragment
+        android:id="@+id/sl_jaune"
+        android:name="com.appmbp.mbp8.Salle_JauneFragment"
+        android:label="Salle Jaune"
+        tools:layout="@layout/fragment_salle__jaune" />
+    <fragment
+        android:id="@+id/sl_noire"
+        android:name="com.appmbp.mbp8.Salle_NoireFragment"
+        android:label="Salle Noire"
+        tools:layout="@layout/fragment_salle__noire" />
+</navigation>

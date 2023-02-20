@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.384375" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/drawable/ic_menu_camera.xml" value="0.36875" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/drawable/ic_zz.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/drawable/side_nav_bar.xml" value="0.384375" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/activity_conseiller.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/activity_conseiller_spinner.xml" value="0.22" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/activity_livre_aconseiller.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/activity_main.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/app_bar_main.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/content_main.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_gallery.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_horaire.xml" value="0.33" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_mon__conseiller.xml" value="0.33" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_regle__pret.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__bleu.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__brune.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__jaune.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__noire.xml" value="0.1" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__orange.xml" value="0.22" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__rose.xml" value="0.25" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__rouge.xml" value="0.22" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__verte.xml" value="0.25" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_salle__violette.xml" value="0.25" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/fragment_slideshow.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/nav_header_main.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/text_view_green.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/textview_blue.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/layout/textview_red.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/menu/activity_main_drawer.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZN/StudioProjects/MBP8/app/src/main/res/menu/main.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic__489798288.xml" value="0.290625" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.309375" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.309375" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_salle_rouge_finii.xml" value="0.33125" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_svg_test.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_tst_sl_bl_txt.xml" value="0.3828125" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_tst_sl_br_txt.xml" value="0.3828125" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_tst_sl_rg_txt.xml" value="0.33125" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_tst_sl_ve_txt.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/ic_zz.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/side_nav_bar.xml" value="0.309375" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/drawable/test_tst.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/activity_apropos.xml" value="0.3088235294117647" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/activity_conseiller_spinner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/activity_livre_aconseiller.xml" value="0.31565656565656564" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/app_bar_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/content_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_gallery.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_home.xml" value="0.31875" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_horaire.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_mon__conseiller.xml" value="0.25" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_regle__pret.xml" value="0.3625" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__bleu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__bleue.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__brune.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__jaune.xml" value="0.5" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__noire.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__orange.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__rose.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__rouge.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__verte.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_salle__violette.xml" value="0.33" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/nav_header_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/text_view_green.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/textview_blue.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/layout/textview_red.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/ZnDev/AndroidStudioProjects/MBP8/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12777777777777777" />
+        <entry key="app/src/main/res/drawable/ic_tst_sl_rs_txt.xml" value="0.1215" />
+        <entry key="app/src/main/res/layout/fragment_salle__orange.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.29322916666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

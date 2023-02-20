@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!-- <group android:checkableBehavior="single">
+         <item
+             android:id="@+id/nav_home"
+             android:icon="@drawable/ic_menu_camera"
+             android:title="@string/menu_home" />
+         <item
+             android:id="@+id/nav_gallery"
+             android:icon="@drawable/ic_menu_gallery"
+             android:title="@string/menu_gallery" />
+         <item
+             android:id="@+id/nav_slideshow"
+             android:icon="@drawable/ic_menu_slideshow"
+             android:title="@string/menu_slideshow" />
+     </group>-->
+
+    <item android:title="Accès">
+        <menu>
+            <item
+                android:id="@+id/ac_horaire"
+                android:icon="@android:drawable/ic_lock_idle_alarm"
+                android:title="Horaires" />
+            <item
+                android:id="@+id/ac_règle"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="Règles de prêt" />
+        </menu>
+    </item>
+    <item android:title="Mon Conseiller">
+        <menu>
+            <item
+                android:id="@+id/mn_conseiller"
+                android:icon="@android:drawable/ic_menu_myplaces"
+                android:title="Conseiller P8" />
+        </menu>
+    </item>
+    <item android:title="Plans">
+        <menu>
+            <item
+                android:id="@+id/sl_bleue"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Bleue" />
+            <item
+                android:id="@+id/sl_brune"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Brune" />
+            <item
+                android:id="@+id/sl_jaune"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Jaune" />
+            <item
+                android:id="@+id/sl_noire"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Noire" />
+            <item
+                android:id="@+id/sl_orange"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Orange" />
+            <item
+                android:id="@+id/sl_rose"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Rose" />
+            <item
+                android:id="@+id/sl_rouge"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Rouge" />
+            <item
+                android:id="@+id/sl_verte"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Verte" />
+            <item
+                android:id="@+id/sl_violette"
+                android:icon="?attr/actionModeCopyDrawable"
+                android:title="Salle Violette"
+                />
+        </menu>
+    </item>
+
+
+
+</menu>
