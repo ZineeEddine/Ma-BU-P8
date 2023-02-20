@@ -37,12 +37,10 @@ Une simple application mobile Android 📱, pour les étudiants de l'Université
 
 <br>
 <p float="left">
-  <img src="https://github.com/ZineeEddine/Ma-BU-P8/blob/main/Screens/Menu.png" width="23%" />
-  <img src="https://github.com/ZineeEddine/Ma-BU-P8/blob/main/Screens/Horaires.png" width="23%" />
-  <img src="https://github.com/ZineeEddine/Ma-BU-P8/blob/main/Screens/Salle_rose.png" width="23%" />
-  <img src="https://github.com/ZineeEddine/Ma-BU-P8/blob/main/Screens/R%C3%A8gles_de_pr%C3%AAt.png" width="23%" />
-
-
+<img src="https://user-images.githubusercontent.com/92603736/220122332-8cf7f5c4-e28b-41fe-bc85-1c2b4fce538f.png"  width="23%">
+<img src="https://user-images.githubusercontent.com/92603736/220122337-1c307a53-ccad-45ca-b10d-837b2cf6209e.png"  width="23%">
+<img src="https://user-images.githubusercontent.com/92603736/220122341-42cc6de9-bae6-43d0-888c-c62bc3d4257e.png"  width="23%">
+<img src="https://user-images.githubusercontent.com/92603736/220122332-8cf7f5c4-e28b-41fe-bc85-1c2b4fce538f.png"  width="23%">
 </p>
 
 
