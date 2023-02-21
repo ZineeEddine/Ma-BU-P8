@@ -40,8 +40,10 @@ Une simple application mobile Android 📱, pour les étudiants de l'Université
 <img src="https://user-images.githubusercontent.com/92603736/220122332-8cf7f5c4-e28b-41fe-bc85-1c2b4fce538f.png"  width="23%">
 <img src="https://user-images.githubusercontent.com/92603736/220122337-1c307a53-ccad-45ca-b10d-837b2cf6209e.png"  width="23%">
 <img src="https://user-images.githubusercontent.com/92603736/220122341-42cc6de9-bae6-43d0-888c-c62bc3d4257e.png"  width="23%">
-<img src="https://user-images.githubusercontent.com/92603736/220122332-8cf7f5c4-e28b-41fe-bc85-1c2b4fce538f.png"  width="23%">
+<img src="https://user-images.githubusercontent.com/92603736/220284460-906217aa-509a-4d64-bcc4-ca60b18d44ae.png"  width="23%">
+
 </p>
+
 
 
 
@@ -67,7 +69,7 @@ Je travaille actuellement seul sur ce projet et à cause de mes études, je n'ai
 - [ ] Conseiller virtuel (Mode ChatBot)
 -> Plusieurs manière de coder un chatbot ( AIML, Seq 2 Seq, GPT)
 - [ ] Corriger le bug lors du partage de l'application via le bouton "Partager l'app"
-- [ ] Coder un bouton "Donation" pour soutenir le projet, ainsi que le meilleur des développeurs mobile (Payer moi un café)
+- [ ] Coder un bouton "Donation" pour soutenir le projet   
 
 
 
